@@ -16,6 +16,13 @@
     http://localhost:3000/api/register
     ```
 
+## Dokumentasi :
+
+* Untuk dokumentasi melalui postman dapat dilihat melalui link berikut :
+    ```
+    https://documenter.getpostman.com/view/24743050/2s9XxsUw2j
+    ```
+
 ## Database Structure
 
 * User
@@ -356,13 +363,6 @@
             }
         ]
     }
-    ```
-
-## Dokumentasi :
-
-* Untuk dokumentasi melalui postman dapat dilihat melalui link berikut :
-    ```
-    https://documenter.getpostman.com/view/24743050/2s9XxsUw2j
     ```
 
 ## Code By - GG3FSGP0303_Deni Fahrony
